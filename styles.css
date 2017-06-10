@@ -1,0 +1,64 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    color: orange;
+    text-align: left;
+}
+
+h3 {
+    color: yellow;
+    text-align: right;
+}
+
+h4 {
+    color: green;
+    text-decoration: overline;
+}
+
+h5 {
+    color: blue;
+    text-decoration: line-through;
+}
+
+h6 {
+    color: indigo;
+    text-decoration: underline;
+}
+
+p.top {
+    color: violet;
+    text-transform: uppercase;
+}
+
+p.bottom {
+    color: lightblue;
+    text-transform: lowercase;
+}
+
+
+.right {
+    color: pink;
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+
+.left {
+    color: maroon;
+    text-indent: 50px;
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
+
+
+
+
+
+
+
