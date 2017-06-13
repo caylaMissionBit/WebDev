@@ -1,0 +1,19 @@
+p.hello {
+    color: red;
+}
+
+body {
+    background: orange;
+}
+
+.goodbye {
+    font-family: cursive;
+    font-size: 50px;
+    text-align: right;
+}
+
+p.afternoon {
+    font-family: sans-serif;
+    font-size: 50px; 
+    text-align: center;
+}
