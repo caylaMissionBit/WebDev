@@ -1,3 +1,4 @@
+/*
 p.hello {
     color: red;
 }
@@ -16,4 +17,7 @@ p.afternoon {
     font-family: sans-serif;
     font-size: 50px; 
     text-align: center;
+}*/
+.black {
+    background-color: black;
 }
